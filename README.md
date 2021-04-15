@@ -1,3 +1,3 @@
 # Clothing_Classification
- Classification of Clothing Neuronal Network
+ Classification of Clothing Neural Network
 Machine Learning with Python
