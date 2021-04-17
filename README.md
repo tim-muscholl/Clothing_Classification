@@ -1,3 +1,4 @@
 # Clothing_Classification
- Classification of Clothing Neural Network
-Machine Learning with Python
+Tensorflow, Python
+Classification of Clothing 
+Machine Learning
